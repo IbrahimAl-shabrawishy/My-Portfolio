@@ -17,12 +17,12 @@ const myProjects = [
 
   {
     id: 1,
-    projectTitle: "Fokir Personal",
-    category: "css",
+    projectTitle: "Youtube Clone",
+    category: "HTML & CSS",
     imagePath: "/assets/images/09ec474019a6749f650d27d72a8af135_thumb.jpg",
     text: "HTML,CSS,Bootstrap",
-    liveLink: "https://ibrahimal-shabrawishy.github.io/Fokir-personal/",
-    githubLink: "https://github.com/IbrahimAl-shabrawishy/Fokir-personal.git",
+    liveLink: "https://clone-9d70f.firebaseapp.com/",
+    githubLink: "https://github.com/IbrahimAl-shabrawishy/Youtube-Clone.git",
     tags: ["CSS", "HTML", "Design"],
   },
 
