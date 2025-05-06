@@ -18,7 +18,7 @@ const myProjects = [
   {
     id: 1,
     projectTitle: "Youtube Clone",
-    category: "HTML & CSS",
+    category: "css",
     imagePath: "/assets/images/09ec474019a6749f650d27d72a8af135_thumb.jpg",
     text: "HTML,CSS,Bootstrap",
     liveLink: "https://clone-9d70f.firebaseapp.com/",
