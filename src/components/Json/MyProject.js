@@ -88,6 +88,16 @@ const myProjects = [
     githubLink: "https://github.com/IbrahimAl-shabrawishy/Ecommerce.git",
     tags: ["React", "JavaScript", "Responsive Design"],
   },
+   {
+    id: 8,
+    projectTitle: "Admin Dashboard",
+    category: "react",
+    imagePath: "/assets/images/09ec474019a6749f650d27d72a8af135_thumb.jpg",
+    text: "An interactive React.js project",
+    liveLink: "https://admin-dashboard-e30e7.web.app/",
+    githubLink: "https://github.com/IbrahimAl-shabrawishy/Admin-Dashboard.git",
+    tags: ["React", "JavaScript", "Responsive Design"],
+  },
 
   /* *================================================
      4. Vue.Js Project
