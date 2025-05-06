@@ -93,7 +93,7 @@ const myProjects = [
     category: "react js",
     imagePath: "/assets/images/09ec474019a6749f650d27d72a8af135_thumb.jpg",
     text: "An interactive React.js project",
-    liveLink: "https://ecommerce-c75bb.web.app/",
+    liveLink: "https://ecommerce-af3d0.web.app/",
     githubLink: "https://github.com/IbrahimAl-shabrawishy/Ecommerce.git",
     tags: ["React", "JavaScript", "Responsive Design"],
   },
