@@ -79,7 +79,7 @@ const myProjects = [
   {
     id: 6,
     projectTitle: "My Portfolio",
-    category: "react js",
+    category: "react",
     imagePath: "/assets/images/09ec474019a6749f650d27d72a8af135_thumb.jpg",
     text: "An interactive React.js project",
     liveLink: "https://react-portfolio-9e280.web.app/",
@@ -90,7 +90,7 @@ const myProjects = [
   {
     id: 7,
     projectTitle: "Ecommerce",
-    category: "react js",
+    category: "react",
     imagePath: "/assets/images/09ec474019a6749f650d27d72a8af135_thumb.jpg",
     text: "An interactive React.js project",
     liveLink: "https://ecommerce-af3d0.web.app/",
