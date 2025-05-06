@@ -102,16 +102,16 @@ const myProjects = [
      4. Vue.Js Project
   *=================================================== */
 
-  {
-    id: 7,
-    projectTitle: "Vue.js Project",
-    category: "vue",
-    imagePath: "/assets/images/09ec474019a6749f650d27d72a8af135_thumb.jpg",
-    text: "A Vue.js Project",
-    liveLink: "https://example.com/vue-project",
-    githubLink: "https://github.com/username/vue-project",
-    tags: ["Vue.js", "JavaScript", "SPA"],
-  },
+  // {
+  //   id: 7,
+  //   projectTitle: "Vue.js Project",
+  //   category: "vue",
+  //   imagePath: "/assets/images/09ec474019a6749f650d27d72a8af135_thumb.jpg",
+  //   text: "A Vue.js Project",
+  //   liveLink: "https://example.com/vue-project",
+  //   githubLink: "https://github.com/username/vue-project",
+  //   tags: ["Vue.js", "JavaScript", "SPA"],
+  // },
 ];
 
 export default myProjects;
