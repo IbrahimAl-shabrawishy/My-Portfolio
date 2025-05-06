@@ -26,16 +26,7 @@ const myProjects = [
     tags: ["CSS", "HTML", "Design"],
   },
 
-  {
-    id: 2,
-    projectTitle: "Daniels",
-    category: "css",
-    imagePath: "/assets/images/09ec474019a6749f650d27d72a8af135_thumb.jpg",
-    text: "HTML,CSS,Bootstrap",
-    liveLink: "https://ibrahimal-shabrawishy.github.io/Daniels-/",
-    githubLink: "https://github.com/IbrahimAl-shabrawishy/Daniels-.git",
-    tags: ["CSS", "HTML", "Design"],
-  },
+
 
   /* *================================================
      2. JavaScript Project
@@ -102,16 +93,7 @@ const myProjects = [
      4. Vue.Js Project
   *=================================================== */
 
-  // {
-  //   id: 7,
-  //   projectTitle: "Vue.js Project",
-  //   category: "vue",
-  //   imagePath: "/assets/images/09ec474019a6749f650d27d72a8af135_thumb.jpg",
-  //   text: "A Vue.js Project",
-  //   liveLink: "https://example.com/vue-project",
-  //   githubLink: "https://github.com/username/vue-project",
-  //   tags: ["Vue.js", "JavaScript", "SPA"],
-  // },
+
 ];
 
 export default myProjects;
